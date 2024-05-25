@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Workers
+    uniqueID: 432943585
+    locked: 0
+  - name: Money
+    uniqueID: 1102965189
+    locked: 0
